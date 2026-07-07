@@ -48,7 +48,7 @@ All official builds are available in the **Releases** section of each repository
 
 - **GitHub Issues** — Bug reports and feature requests
 - **Discussions** — General questions and ideas
-- **VK Group** — Official community (coming soon)
+- **VK Group** — Official community (https://vk.com/ruspluginsteam)
 
 ---
 
