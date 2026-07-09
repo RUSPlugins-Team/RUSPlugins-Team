@@ -12,7 +12,7 @@ We create high-quality, stable, and user-friendly plugins for Bedrock Edition se
 |-------------------|--------------|----------------------------------------------------------|--------------|-----------------|
 | **ClanGuard**     | 1.0.3        | Advanced clan management with strong security system     | Active       | June 23, 2026   |
 | **BarGrounds**    | 1.0.0        | Stylish multilingual Sidebar HUD with rich integrations  | Active       | June 24, 2026   |
-| **BloodyDuels**   | 1.0.3.1 update        | NPC-based duel system with GUI, invites and visuals      | In Development | July 9, 2026  |
+| **BloodyDuels**   | 1.0.3.1 update        | NPC-based duel system with GUI, invites and visuals      | Active | July 9, 2026  |
 
 ---
 
