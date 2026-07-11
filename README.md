@@ -13,6 +13,7 @@ We create high-quality, stable, and user-friendly plugins for Bedrock Edition se
 | **ClanGuard**     | 1.0.3        | Advanced clan management with strong security system     | Active       | June 23, 2026   |
 | **BarGrounds**    | 1.0.0        | Stylish multilingual Sidebar HUD with rich integrations  | Active       | June 24, 2026   |
 | **BloodyDuels**   | 1.0.4 classic        | NPC-based duel system with GUI, invites and visuals      | Active | July 9, 2026  |
+| **EVOEconomy**    | 1.0.0         | EVOEconomy plugin with an internal API system            | Active      | July  10, 2026      | 
 
 ---
 
@@ -39,6 +40,7 @@ All official builds are available in the **Releases** section of each repository
 - [ClanGuard](https://github.com/RUSPlugins-Team/ClanGuard) — Clan Management
 - [BarGrounds](https://github.com/RUSPlugins-Team/BarGrounds) — Sidebar HUD
 - [BloodyDuels](https://github.com/RUSPlugins-Team/BloodyDuels) — Duel System
+- [EVOEconomy](https://github.com/RUSPlugins-Team/EVOEconomy) - Evo Economy Plugin
 
 **Organization:** [github.com/RUSPlugins-Team](https://github.com/RUSPlugins-Team)
 
